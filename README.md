@@ -10,4 +10,4 @@ I the first script, Spliting the data into Training_Validation_Test & Preprocess
 
 Once the data has been preprocessed and split, we proceed to train the model wiht the script: Yelp review classifier.ipynb.
 
-The accuracy obtained for the test dataset is 82,5%
+The accuracy obtained for the test dataset is 82,5%.
